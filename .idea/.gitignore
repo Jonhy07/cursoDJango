@@ -1,0 +1,16 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\Jonhy\Desktop\8avo\Comercial\app\prueba1\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+*.pyc
+*~
+/.vscode
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
